@@ -9,7 +9,7 @@ class CalculaPi extends Thread {
   private int n;
   private int id;
   private int numero_threads;
-  private double soma;
+  private double soma=0;
 
   // --construtor
   public CalculaPi(int n, int numero_threads, int id) {
@@ -79,16 +79,17 @@ class GeraPi {
 
     pi = 4 * pi;
    
-
+    //criando variavel de erro relativo
     double erro = ((Math.abs(Math.PI - pi)) / Math.PI );
 
-    // tive que transformar o pi em string pra poder apresentar os valores com mais
-    // casas decimais pois no meu computador não estava aparecendo
-    System.out.printf("Valor de Pi aproximado com n igual a %d e calculado usando %d Threads: %s \n", n, numero_threads,
-        String.valueOf(pi));
+    
+    System.out.printf("Valor de Pi aproximado com n igual a %d e calculado usando %d Threads: %.10f \n", n, numero_threads,
+        pi);
 
-    System.out.printf("Erro aproximado: %f \n", erro);
+    System.out.printf("Erro aproximado: %.10f \n", erro);
     System.out.printf("Erro é menor que 10^-10? %b \n", (erro < (Math.pow(10, -10))));
+    System.out.printf("Constante PI: %.10f \n", Math.PI);
 
+  
   }
 }
