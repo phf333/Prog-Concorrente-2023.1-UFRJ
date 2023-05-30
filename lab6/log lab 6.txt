@@ -1,0 +1,143 @@
+Thread produtora 0 tenta inserir elemento no buffer
+Produtora verifica se o buffer ta vazio
+Produtora avisa que buffer ta vazio
+colocando elemento na posição 0 do buffer 
+colocando elemento na posição 1 do buffer 
+colocando elemento na posição 2 do buffer 
+colocando elemento na posição 3 do buffer 
+colocando elemento na posição 4 do buffer 
+colocando elemento na posição 5 do buffer 
+colocando elemento na posição 6 do buffer 
+colocando elemento na posição 7 do buffer 
+colocando elemento na posição 8 do buffer 
+colocando elemento na posição 9 do buffer 
+Produtora sinaliza buffer ''cheio''(com elemento pra retirar)
+Thread consumidora 0 tenta remover elemento no buffer
+Consumidora verifica se o buffer possui item/esta cheio
+Consumidora confirma que o buffer possui item
+Removendo elemento da posição 0 do buffer 
+Consumidora sinaliza buffer ''cheio''(com elemento pra retirar)
+Thread consumidora 1 tenta remover elemento no buffer
+Consumidora verifica se o buffer possui item/esta cheio
+Consumidora confirma que o buffer possui item
+Removendo elemento da posição 1 do buffer 
+Consumidora sinaliza buffer ''cheio''(com elemento pra retirar)
+Thread consumidora 3 tenta remover elemento no buffer
+Consumidora verifica se o buffer possui item/esta cheio
+Consumidora confirma que o buffer possui item
+Removendo elemento da posição 2 do buffer 
+Consumidora sinaliza buffer ''cheio''(com elemento pra retirar)
+Thread produtora 1 tenta inserir elemento no buffer
+Produtora verifica se o buffer ta vazio
+Thread consumidora 2 tenta remover elemento no buffer
+Consumidora verifica se o buffer possui item/esta cheio
+Consumidora confirma que o buffer possui item
+Removendo elemento da posição 3 do buffer 
+Consumidora sinaliza buffer ''cheio''(com elemento pra retirar)
+Thread produtora 0 tenta inserir elemento no buffer
+Produtora verifica se o buffer ta vazio
+Thread consumidora 0 tenta remover elemento no buffer
+Consumidora verifica se o buffer possui item/esta cheio
+Consumidora confirma que o buffer possui item
+Removendo elemento da posição 4 do buffer 
+Consumidora sinaliza buffer ''cheio''(com elemento pra retirar)
+Thread consumidora 1 tenta remover elemento no buffer
+Thread consumidora 2 tenta remover elemento no buffer
+Consumidora verifica se o buffer possui item/esta cheio
+Consumidora confirma que o buffer possui item
+Removendo elemento da posição 5 do buffer 
+Consumidora sinaliza buffer ''cheio''(com elemento pra retirar)
+Consumidora verifica se o buffer possui item/esta cheio
+Consumidora confirma que o buffer possui item
+Removendo elemento da posição 6 do buffer 
+Consumidora sinaliza buffer ''cheio''(com elemento pra retirar)
+Thread consumidora 3 tenta remover elemento no buffer
+Consumidora verifica se o buffer possui item/esta cheio
+Consumidora confirma que o buffer possui item
+Removendo elemento da posição 7 do buffer 
+Consumidora sinaliza buffer ''cheio''(com elemento pra retirar)
+Thread consumidora 2 tenta remover elemento no buffer
+Consumidora verifica se o buffer possui item/esta cheio
+Consumidora confirma que o buffer possui item
+Removendo elemento da posição 8 do buffer 
+Consumidora sinaliza buffer ''cheio''(com elemento pra retirar)
+Thread consumidora 0 tenta remover elemento no buffer
+Consumidora verifica se o buffer possui item/esta cheio
+Consumidora confirma que o buffer possui item
+Removendo elemento da posição 9 do buffer 
+Consumidora sinaliza buffer vazio
+Thread consumidora 1 tenta remover elemento no buffer
+Consumidora verifica se o buffer possui item/esta cheio
+Produtora avisa que buffer ta vazio
+colocando elemento na posição 0 do buffer 
+colocando elemento na posição 1 do buffer 
+colocando elemento na posição 2 do buffer 
+colocando elemento na posição 3 do buffer 
+colocando elemento na posição 4 do buffer 
+colocando elemento na posição 5 do buffer 
+colocando elemento na posição 6 do buffer 
+colocando elemento na posição 7 do buffer 
+colocando elemento na posição 8 do buffer 
+colocando elemento na posição 9 do buffer 
+Produtora sinaliza buffer ''cheio''(com elemento pra retirar)
+Thread consumidora 3 tenta remover elemento no buffer
+Consumidora verifica se o buffer possui item/esta cheio
+Consumidora confirma que o buffer possui item
+Removendo elemento da posição 0 do buffer 
+Consumidora sinaliza buffer ''cheio''(com elemento pra retirar)
+Consumidora confirma que o buffer possui item
+Removendo elemento da posição 1 do buffer 
+Consumidora sinaliza buffer ''cheio''(com elemento pra retirar)
+Thread consumidora 0 tenta remover elemento no buffer
+Consumidora verifica se o buffer possui item/esta cheio
+Consumidora confirma que o buffer possui item
+Removendo elemento da posição 2 do buffer 
+Consumidora sinaliza buffer ''cheio''(com elemento pra retirar)
+Thread consumidora 2 tenta remover elemento no buffer
+Thread consumidora 3 tenta remover elemento no buffer
+Consumidora verifica se o buffer possui item/esta cheio
+Consumidora verifica se o buffer possui item/esta cheio
+Consumidora confirma que o buffer possui item
+Removendo elemento da posição 3 do buffer 
+Consumidora sinaliza buffer ''cheio''(com elemento pra retirar)
+Thread consumidora 1 tenta remover elemento no buffer
+Consumidora confirma que o buffer possui item
+Removendo elemento da posição 4 do buffer 
+Consumidora sinaliza buffer ''cheio''(com elemento pra retirar)
+Consumidora verifica se o buffer possui item/esta cheio
+Consumidora confirma que o buffer possui item
+Removendo elemento da posição 5 do buffer 
+Consumidora sinaliza buffer ''cheio''(com elemento pra retirar)
+Thread produtora 1 tenta inserir elemento no buffer
+Produtora verifica se o buffer ta vazio
+Thread consumidora 0 tenta remover elemento no buffer
+Consumidora verifica se o buffer possui item/esta cheio
+Consumidora confirma que o buffer possui item
+Removendo elemento da posição 6 do buffer 
+Consumidora sinaliza buffer ''cheio''(com elemento pra retirar)
+Thread consumidora 2 tenta remover elemento no buffer
+Consumidora verifica se o buffer possui item/esta cheio
+Consumidora confirma que o buffer possui item
+Removendo elemento da posição 7 do buffer 
+Consumidora sinaliza buffer ''cheio''(com elemento pra retirar)
+Thread consumidora 1 tenta remover elemento no buffer
+Consumidora verifica se o buffer possui item/esta cheio
+Consumidora confirma que o buffer possui item
+Removendo elemento da posição 8 do buffer 
+Consumidora sinaliza buffer ''cheio''(com elemento pra retirar)
+Thread consumidora 3 tenta remover elemento no buffer
+Consumidora verifica se o buffer possui item/esta cheio
+Consumidora confirma que o buffer possui item
+Removendo elemento da posição 9 do buffer 
+Consumidora sinaliza buffer vazio
+Produtora avisa que buffer ta vazio
+colocando elemento na posição 0 do buffer 
+colocando elemento na posição 1 do buffer 
+colocando elemento na posição 2 do buffer 
+colocando elemento na posição 3 do buffer 
+colocando elemento na posição 4 do buffer 
+colocando elemento na posição 5 do buffer 
+colocando elemento na posição 6 do buffer 
+colocando elemento na posição 7 do buffer 
+colocando elemento na posição 8 do buffer 
+colocando elemento na p
