@@ -63,7 +63,7 @@
 |   4    |         0.0259070000 segundos         |  0.0259860000 segundos |
 |   5    |         0.0103090000 segundos         |  0.0227930000 segundos |
 
-1KK elementos:
+1M elementos:
 
 | Rodada | Merge Sort Concorrente (NTHREADS = 2) | Merge Sort Sequencial |
 |--------|--------------------------------------|-----------------------|
